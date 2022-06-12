@@ -1,5 +1,5 @@
 from PIL import Image
 
-image_1 = Image.open(r'C:\Users') #path alla foto
+image_1 = Image.open(r'C:\Users') #path to the image
 im_1 = image_1.convert('RGB')
-im_1.save(r'C:\Users\Simone\Desktop\carta_identità.pdf') #path dove vuoi che vernga salvata la foto
+im_1.save(r'C:\Users\your_username\Desktop') #path where you want the image to get saved

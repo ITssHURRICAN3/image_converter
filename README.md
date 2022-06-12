@@ -1,8 +1,8 @@
-# convertitore per immagini 
+# Image converter
 
 
-Niente di speciale, converte  i file jpg o png in pdf senza usare siti online.
+Nothing special, just converts the image into a pdf
 
-Usare convertitori online è pericoloso visto che non puoi sapere dove andrà a finire la foto con i TUOI DATI SENSIBILI
+Better use this than online stuff that might steal ur data
 
 Enjoy the free tool ❤️
